@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "facing=north,lit=false": { "model": "stonecrusher:block/stone_crusher_block" },
+    "facing=south,lit=false": { "model": "stonecrusher:block/stone_crusher_block", "y": 180 },
+    "facing=west,lit=false": { "model": "stonecrusher:block/stone_crusher_block", "y": 270 },
+    "facing=east,lit=false": { "model": "stonecrusher:block/stone_crusher_block", "y": 90 },
+    "facing=north,lit=true": { "model": "stonecrusher:block/stone_crusher_block_lit" },
+    "facing=south,lit=true": { "model": "stonecrusher:block/stone_crusher_block_lit", "y": 180 },
+    "facing=west,lit=true": { "model": "stonecrusher:block/stone_crusher_block_lit", "y": 270 },
+    "facing=east,lit=true": { "model": "stonecrusher:block/stone_crusher_block_lit", "y": 90 }
+  }
+}

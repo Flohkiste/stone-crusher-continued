@@ -1,0 +1,10 @@
+{
+  "parent": "block/orientable",
+  "textures": {
+    "top": "stonecrusher:block/stone_crusher_top",
+    "bottom": "stonecrusher:block/stone_crusher_top",
+    "front": "stonecrusher:block/stone_crusher_front_lit",
+    "side": "stonecrusher:block/stone_crusher_side",
+    "back": "stonecrusher:block/stone_crusher_side"
+  }
+}
